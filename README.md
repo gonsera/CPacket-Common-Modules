@@ -15,3 +15,4 @@ If you are using a package that comes from GitHub repository you will need to us
     * pip install package_name
 
 When you are having conflicts with making Travis work, please make sure to contact with QA Lead.
+
